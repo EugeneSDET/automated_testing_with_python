@@ -1,1 +1,1 @@
-# My test automation project with Selenium and Python
+# Some pieces of my skills
