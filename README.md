@@ -1,1 +1,1 @@
-# Some pieces of my skills
+# Some examples of my skills
